@@ -1,0 +1,67 @@
+{
+  "contentType": "collection",
+  "contentId": "motd-default-collection",
+  "tcId": "634e8e85-e2fc-4c68-bb10-93604cf6605f",
+  "contentItems": [
+    {
+      "contentType": "content-item",
+      "contentId": "46874c56-0973-4cbe-ac98-b580c5b36df5",
+      "tcId": "61fb3dd8-f23d-45cc-9058-058ab223ba5c",
+      "contentFields": {
+        "body": {
+          "ar": "جميع حقوق الخلفية الأصلية تذهب إلى لاوين",
+          "en": "Created by sxlverr.",
+          "de": "Erstellt von sxlverr",
+          "es": "Creado por sxlverr",
+          "es-419": "Creado por sxlverr",
+          "fr": "Créé par sxlverr",
+          "it": "Creato da sxlverr",
+          "ja": "sxlverr によって作成され",
+          "ko": "sxlverr에 의해 생성된 모든 주요",
+          "pl": "Stworzony przez sxlverr",
+          "pt-BR": "Criado por sxlverr",
+          "ru": "Создано sxlverr",
+          "tr": "sxlverr tarafından oluşturulan tüm ana krediler"
+        },
+        "entryType": "Website",
+        "image": [
+          {
+            "width": 1920,
+            "height": 1080,
+            "url": "https://imgur.com/a/MrvrQ6g"
+          }
+        ],
+        "tabTitleOverride": "OGFN",
+        "tileImage": [
+          {
+            "width": 1024,
+            "height": 512,
+            "url": "https://imgur.com/a/MrvrQ6g"
+          }
+        ],
+        "title": {
+          "ar": "مرحبًا بك في OGFN!",
+          "en": "Welcome to OGFN!",
+          "de": "Willkommen bei OGFN!",
+          "es": "¡Bienvenidos a OGFN!",
+          "es-419": "¡Bienvenidos a OGFN!",
+          "fr": "Bienvenue sur OGFN !",
+          "it": "Benvenuto in OGFN!",
+          "ja": "OGFNへようこそ！",
+          "ko": "OGFN에 오신 것을 환영합니다!",
+          "pl": "Witaj w OGFNze!",
+          "pt-BR": "Bem-vindo ao OGFN!",
+          "ru": "Добро пожаловать в OGFN!",
+          "tr": "OGFN'a Hoş Geldiniz!"
+        },
+        "videoAutoplay": false,
+        "videoLoop": false,
+        "videoMute": false,
+        "videoStreamingEnabled": false,
+        "websiteButtonText": "OGFN",
+        "websiteURL": "https://discord.gg/invite-here"
+      },
+      "contentSchemaName": "MotdWebsiteNewsWithVideo"
+    }
+  ]
+}
