@@ -1,3 +1,4 @@
+## ALL MAIN CREDITS TO RELOAD BACKEND
 # Game Backend Features
 
 ## Features
@@ -111,7 +112,7 @@
 - `/unban {targetUsername}` - Unban a user by their username.
 
 ---
-
+All main credits to Reload Backend
 ## Contributing
 Feel free to contribute by submitting issues or pull requests!
 
